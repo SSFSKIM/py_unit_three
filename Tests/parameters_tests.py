@@ -46,7 +46,7 @@ class MyTestCase(unittest.TestCase):
             out = StringIO()
             sys.stdout = out
             addition.add_two(12, -9)
-            output = out.getvalue().strip()
+po;p[;-0o.…o]            output = out.getvalue().strip()
             assert output == "The sum of 12 and -9 is 3"
         finally:
             sys.stdout = saved_stdout
